@@ -9,13 +9,8 @@ Their repository can be found at https://github.com/lucamacis92/Knight-Tour
 ## Artifical Neural Network
 
 the knight_tour.py explores the logic and mathemathics of the implementing an ANN in a closed knight's tour problem.
-the gui_representation is the graphic user interface implementation of the knight_tour.py. This file will create an instance of the a Knight_tour from the knight_tour file and implement the solution into a graphical form. The code for this file will be edited extensivly as it is only helping the user have a visual perception of the knight's tour.
+the gui_representation is the graphic user interface implementation of the knight_tour.py. This file will create an instance of the a Knight_tour from the knight_tour file and implement the solution into a graphical form. The code for this file will be edited extensivly as it is only helping the user have a visual perception of the knight's tour.Heavily inspired by user: <b>NiloofarShahbaz</b> Their repository can be located at https://github.com/NiloofarShahbaz/knight-tour-neural-network.
 
-Disclaimer: the knight_tour.py is a significantly slower algorithm compared to other ANN programs. 
+Disclaimer: the knight_tour.py is a significantly slower algorithm compared to other ANN programs.
 
-Heavily inspired by user: <b>NiloofarShahbaz</b>
-Their repository can be found at https://github.com/NiloofarShahbaz/knight-tour-neural-network
-
-knight.exe is a program which incorporates an enhanced logic behind the knight's tour. It not only solves solutions for non-hamiltonion circuits (paths and open tours), but will find solutions for hamiltonion circuits (closed tours). 
-
-Their repository can be located at https://github.com/dbrant/MathApps/tree/master/Knights (RELEASE_BUILD folder which has the program)
+knight.exe is a program which incorporates an enhanced logic behind the knight's tour. It not only solves solutions for non-hamiltonion circuits (paths and open tours), but will find solutions for hamiltonion circuits (closed tours). Program was created by <b>Dmitry Brant</b>. Their repository can be located at https://github.com/dbrant/MathApps/tree/master/Knights (RELEASE_BUILD folder which has the program).
